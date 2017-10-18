@@ -227,16 +227,3 @@ if __name__ == "__main__":
     outname="file."+str(z)+".txt"
     Output(x,outname)
 
-
-
-
-  #for l,m in sorted(cc.items(), key=lambda x:x[1], reverse=True):
-  #  if m > 5:
-  #    print l,m
-
-
-#      if len(event)<5: #some indels have only one gene name
-      #can either use both gene names with '_' between, or use single gene names from col6
-        #gene1,gene2=event[2].split(':')[0],"NA"
-#      else:
-        #gene1,gene2=event[2].split(':')[0],event[3]
