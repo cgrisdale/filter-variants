@@ -1,4 +1,6 @@
 #!/usr/bin/python
+#Cameron Grisdale
+#Oct 18, 2017
 
 import sys
 import re
